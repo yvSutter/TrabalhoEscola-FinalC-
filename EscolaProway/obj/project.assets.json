@@ -10414,11 +10414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ASP.MVC Estudo\\aula1012\\EscolaProway\\EscolaProway\\EscolaProway.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\AAtividadeProway\\TrabalhoEscola-FinalC-\\EscolaProway\\EscolaProway.csproj",
       "projectName": "EscolaProway",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\ASP.MVC Estudo\\aula1012\\EscolaProway\\EscolaProway\\EscolaProway.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\AAtividadeProway\\TrabalhoEscola-FinalC-\\EscolaProway\\EscolaProway.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\ASP.MVC Estudo\\aula1012\\EscolaProway\\EscolaProway\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\AAtividadeProway\\TrabalhoEscola-FinalC-\\EscolaProway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

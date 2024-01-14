@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loE5MmUhwV+zzFcnm2H+lBGz+l63B1U6pMdjiVsgGUDHl6a4plXuE25cdI/Uvqt/4YmM+0qMiFPtct8sIiLxEg==",
+  "dgSpecHash": "77wmJ/P++dEv6uOZh+myNhfVY2wm7LTQQl77N1dMVg6MlA9i5mOnHWZfsH09ySiQjdtZseElPIWwO7ghyUpLHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\ASP.MVC Estudo\\aula1012\\EscolaProway\\EscolaProway\\EscolaProway.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\AAtividadeProway\\TrabalhoEscola-FinalC-\\EscolaProway\\EscolaProway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

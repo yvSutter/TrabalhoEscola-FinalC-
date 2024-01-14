@@ -34,6 +34,11 @@ namespace EscolaProway.Controllers
             var professor = _Professor.Professores;
             return View(professor);
         }
+        public IActionResult CadastroPessoas()
+        {
+            var professor = _Professor.Professores; //""""""""""""""""""
+            return View(professor);
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
